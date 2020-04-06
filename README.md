@@ -1,2 +1,2 @@
-# pingpong
-Ping-pong game with Panda3D
+# Ping Pong
+3D networked ping pong game with multiple game modes. Under devleopment.
